@@ -58,7 +58,7 @@
 	font-family: 'Roboto Mono', sans-serif;
 	font-size: 1.2rem;
 	font-weight: 400;
-	max-width: 40rem;
+	max-width: 48rem;
 	margin-bottom: 1.9rem;
 	color: #999999;
 }
@@ -82,4 +82,20 @@
 .desktop {
 	flex: 1;
 	background-color: #FCFCFC;
+	position: relative;
+}
+
+.file-app {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	display: flex;
+	margin-top: 8px;
+	flex-direction: column;
+	align-items: center;
+}
+
+.file-name {
+	font-size: 0.8rem;
+	font-family: 'Roboto Mono', monospace;
 }

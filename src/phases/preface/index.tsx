@@ -14,7 +14,9 @@ export const Preface = () => {
 						This is not blog.
 					</p>
 					<p className={styles.explanation}>
-						This experience is not built to be viewed by other people, but rather a document for a future me to see, so some creative choices may be confusing.
+						This experience is not built to be viewed by other people, but rather a document for a
+						future me to see, so some creative choices may be confusing and responsiveness may be
+						poor.
 					</p>
 				</div>
 			</div>
