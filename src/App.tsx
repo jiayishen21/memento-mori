@@ -1,5 +1,5 @@
-import { Preface } from './pages/preface'
-import { Winter2024 } from './pages/winter-2024'
+import { Preface } from '@/phases/preface'
+import { Winter2024 } from '@/phases/winter-2024'
 
 const App = () => {
   return (
